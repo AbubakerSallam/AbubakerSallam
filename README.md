@@ -12,11 +12,16 @@
 - 🧪 Improving Developer Experience  
 - 🚀 Sharing tools & code that help others  
 - 📚 Teaching and mentoring future developers  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ![Abubaker's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbubakerSallam&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbubakerSallam&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=AbubakerSallam&theme=radical)
-
+![Profile Views](https://komarev.com/ghpvc/?username=AbubakerSallam&style=for-the-badge)
 ## 🛠️ Featured Projects
 
 | Project | Description |
