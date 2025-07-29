@@ -40,7 +40,7 @@
 
 ![Abubaker's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbubakerSallam&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbubakerSallam&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=AbubakerSallam&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.vercel.app?user=AbubakerSallam&theme=radical)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AbubakerSallam&style=for-the-badge)
 
