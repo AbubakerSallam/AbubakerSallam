@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abubaker Sallam [![Netlify Status](https://api.netlify.com/api/v1/badges/1ad79124-ff4a-4280-8d3d-3c3c848eea09/deploy-status)](http://abubakersallam.netlify.app/)
 
-🎯 Developer · UI/UX Enthusiast · Open Source Contributor  
+🎯 Developer · Flutter · UI/UX Enthusiast · Open Source Contributor  
 ✨ Crafting thoughtful digital experiences with code & design
 
 ---
